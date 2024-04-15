@@ -1,7 +1,6 @@
 # sqlalchemy-challenge
-# sql-challenge
 
-Welcome to my submission for the SQL-Challenge in module 9 of the Data Analytics bootcamp. This project was completed as part of the curriculum to showcase my proficiency in creating databases and tables in pgAdmin, and SQL syntax.
+Welcome to my submission for the SQL-Alchemy-Challenge in module 10 of the Data Analytics bootcamp. This project was completed as part of the curriculum to showcase my proficiency in creating databases and tables in VS Code and Jupyter lab, using SQL Alchemy syntax, and Flask library.
 
 
 # Challenge Description
@@ -41,7 +40,16 @@ For this challenge, our objective was to connect to 2 CSV files and a sqllite fi
 
   
   # My Results
--Screenshots of results
+![Screenshot 2024-04-15 at 4 42 27 PM](https://github.com/erinengle2024/sqlalchemy-challenge/assets/158017994/52f7790f-1dbc-4463-bbee-7ebba96241e8)
+![Screenshot 2024-04-15 at 4 42 36 PM](https://github.com/erinengle2024/sqlalchemy-challenge/assets/158017994/7d011998-e0b0-4b8b-b5c5-33623ce92402)
+![Screenshot 2024-04-15 at 4 42 43 PM](https://github.com/erinengle2024/sqlalchemy-challenge/assets/158017994/2ffc42f8-ffee-447a-b539-eab69f2aa1fb)
+![Screenshot 2024-04-15 at 4 42 53 PM](https://github.com/erinengle2024/sqlalchemy-challenge/assets/158017994/8e1b1abf-ab68-466d-8e0d-b9e2da0851d8)
+![Screenshot 2024-04-15 at 4 43 34 PM](https://github.com/erinengle2024/sqlalchemy-challenge/assets/158017994/ddc718af-b3da-4404-a46f-fbd5fa2141cd)
+![Screenshot 2024-04-15 at 4 43 45 PM](https://github.com/erinengle2024/sqlalchemy-challenge/assets/158017994/47548edd-bbee-4181-9ecc-e005a94e8372)
+![Screenshot 2024-04-15 at 4 43 58 PM](https://github.com/erinengle2024/sqlalchemy-challenge/assets/158017994/a3cb4228-94a5-4b12-b1fe-be24520d259c)
+![Screenshot 2024-04-15 at 4 44 08 PM](https://github.com/erinengle2024/sqlalchemy-challenge/assets/158017994/d717fcfc-a123-4749-b10f-bf3d73f68c80)
+![Screenshot 2024-04-15 at 4 44 19 PM](https://github.com/erinengle2024/sqlalchemy-challenge/assets/158017994/659fe60c-93f7-428e-8351-5c1b6913484b)
+
 
 
 
@@ -63,7 +71,12 @@ These challenges, in addition to the other challenges provided, helped teach us 
 - How to convert dates
 - How to append items to a Flask Server
 
-## - Screen shots of lessons here
+
+![Screenshot 2024-04-15 at 4 47 07 PM](https://github.com/erinengle2024/sqlalchemy-challenge/assets/158017994/8875761d-2bfe-4bce-b768-837a65ee81b3)
+![Screenshot 2024-04-15 at 4 47 18 PM](https://github.com/erinengle2024/sqlalchemy-challenge/assets/158017994/396fa9fd-9be0-4afd-a9e8-a7c985124830)
+![Screenshot 2024-04-15 at 4 46 02 PM](https://github.com/erinengle2024/sqlalchemy-challenge/assets/158017994/9d6d9caa-bffe-4e76-b7b6-d2ea8de3e2b7)
+![Screenshot 2024-04-15 at 4 46 22 PM](https://github.com/erinengle2024/sqlalchemy-challenge/assets/158017994/05da7405-ac4d-4965-ba79-36d3fb277822)
+![Screenshot 2024-04-15 at 4 46 49 PM](https://github.com/erinengle2024/sqlalchemy-challenge/assets/158017994/faae0932-6b27-412f-bc97-632be307da74)
 
 
 
@@ -73,4 +86,4 @@ These challenges, in addition to the other challenges provided, helped teach us 
 
 
  ## Additional Resources
-For syntax that I was not familiar with, I used resources such as the Xpert Learning Assistant, provided by UC Berkely Bootcamp, pgAdmin 4 Documentation, and ChatGPT.
+For syntax that I was not familiar with, I used resources such as the Xpert Learning Assistant, provided by UC Berkely Bootcamp, Flask Documentation, and ChatGPT.
